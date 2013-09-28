@@ -7,10 +7,10 @@
     "log",
     "audit"
   ],
-  "contributors": {
-    "Craig Coffman <ch.cr.co@gmail.com>",
-    "Joseph Persie <joseph@supraliminalsolutions.com>"
-  },
+  "contributors": [
+    "Craig Coffman ch.cr.co@gmail.com",
+    "Joseph Persie joseph@supraliminalsolutions.com>"
+  ],
   "main": "index",
   "dependencies": {
     "async": "0.1.22"
