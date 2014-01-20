@@ -13,7 +13,8 @@
   ],
   "main": "index",
   "dependencies": {
-    "async": "0.1.22"
+    "async": "0.1.22",
+    "moment": "2.5.0"
   },
   "engines": {
     "node": "*"
