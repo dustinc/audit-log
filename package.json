@@ -1,15 +1,16 @@
 {
   "name": "audit-log",
   "description": "Node Audit Logging Toolkit",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "keywords": [
     "node",
     "log",
     "audit"
   ],
   "contributors": [
-    "Craig Coffman ch.cr.co@gmail.com",
-    "Joseph Persie joseph@supraliminalsolutions.com>"
+    "Craig Coffman <ch.cr.co@gmail.com>",
+    "Joseph Persie <joseph@supraliminalsolutions.com>",
+    "Dustin coffey <coffey.dustin@gmail.com>"
   ],
   "main": "index",
   "dependencies": {
